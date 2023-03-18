@@ -55,6 +55,7 @@
   .main-container{
     width: 400px;
     overflow: hidden;
+    margin: 0 auto;
   }
 }
 </style>
