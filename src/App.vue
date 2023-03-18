@@ -51,4 +51,10 @@
   color:#2c3e50;
   font-size: small;
 }
+@media (max-width: 480px) {
+  .main-container{
+    width: 380px;
+    overflow: hidden;
+  }
+}
 </style>

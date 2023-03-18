@@ -97,9 +97,9 @@ export default {
   background-color: skyblue;
   color: white;
 }
-@media(max-width: 500px){
+@media(max-width: 480px){
   .counter-container{
-    max-width: 400px;
+    max-width: 380px;
   }
 }
 </style>
