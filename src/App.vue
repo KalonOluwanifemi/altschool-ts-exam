@@ -59,7 +59,9 @@
   }
 @media(min-width: 768px){
   .main-container{
-    height: fit-content;
+    height: 700px;
+
+
   }  
 }
 }
