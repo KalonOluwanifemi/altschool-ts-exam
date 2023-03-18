@@ -97,4 +97,9 @@ export default {
   background-color: skyblue;
   color: white;
 }
+@media(max-width: 500px){
+  .counter-container{
+    overflow: hidden;
+  }
+}
 </style>
