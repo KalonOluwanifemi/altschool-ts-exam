@@ -99,7 +99,7 @@ export default {
 }
 @media(max-width: 500px){
   .counter-container{
-    overflow: hidden;
+    max-width: 400px;
   }
 }
 </style>
