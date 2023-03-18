@@ -59,7 +59,7 @@
   }
 @media(min-width: 768px){
   .main-container{
-    height: 700px;
+    height: 1000px;
 
 
   }  
