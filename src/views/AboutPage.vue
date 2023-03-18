@@ -33,4 +33,9 @@
         letter-spacing: 0.4px;
         
     }
-</style>
+    @media(max-width: 500px){
+        .about{
+           overflow: hidden;
+        }
+    }
+    </style>
