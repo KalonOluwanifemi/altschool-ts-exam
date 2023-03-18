@@ -37,4 +37,9 @@
     background-color: rgb(1, 99, 138);
     color: rgb(206, 198, 198);
 }
+@media(max-width:480px){
+    .colors{
+        width: 380px;
+    }
+}
 </style>
