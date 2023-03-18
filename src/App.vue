@@ -57,5 +57,10 @@
     overflow: hidden;
     margin: 0 auto;
   }
+@media(min-width: 768px){
+  .main-container{
+    height: fit-content;
+  }  
+}
 }
 </style>
