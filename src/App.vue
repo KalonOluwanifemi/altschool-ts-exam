@@ -56,12 +56,11 @@
     width: 400px;
     overflow: hidden;
     margin: 0 auto;
+    padding: 0 auto;
   }
 @media(min-width: 768px){
   .main-container{
     height: 1000px;
-
-
   }  
 }
 }

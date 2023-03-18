@@ -40,7 +40,8 @@
         .info-container{
             width: 380px;
         }
-    } .info{
+        .info{
         width: 380px;
     }
+    } 
     </style>
